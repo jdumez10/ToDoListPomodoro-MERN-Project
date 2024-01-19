@@ -28,26 +28,26 @@ To run this application locally, you will need to set up both the client and ser
    git clone https://github.com/jdumez10/ToDoListPomodoro-MERN-Project.git
    cd ToDoListPomodoro-MERN-Project/backend
 2. Install server dependencies:
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 3. Start the server:
-  ```bash
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
 
 ### Client Setup
 1. Open a new terminal and navigate to the client folder:
    ```bash
    cd ../frontend
 2. Install client dependencies:
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 3. Start the React client:
-  ```bash
-  npm start
-  ```
+   ```bash
+   npm start
+   ```
 
 ## Usage
 After starting both the server and client, the ToDoListPomodoro app will be accessible at http://localhost:3000. Use the app to manage tasks and utilize the Pomodoro timer for enhanced productivity.
